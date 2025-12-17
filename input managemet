@@ -1,0 +1,13 @@
+Enter number of students: 3
+
+Student 1
+Enter name: Rahul
+Enter marks (0-100): 92
+
+Student 2
+Enter name: Anita
+Enter marks (0-100): 78
+
+Student 3
+Enter name: Suresh
+Enter marks (0-100): 55
